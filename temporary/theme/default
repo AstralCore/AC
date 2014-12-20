@@ -1,0 +1,4 @@
+export background_select=40
+export font_select=32
+export background_title=40
+export font_title=32
